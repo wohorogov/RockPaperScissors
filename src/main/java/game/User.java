@@ -1,9 +1,8 @@
 package game;
 
-import java.util.Random;
 import java.util.Scanner;
 
-public class User {
+public class User extends Player{
     private Scanner scanner;
 
     public User() {
